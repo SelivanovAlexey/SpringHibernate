@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="application" uuid="fcb2e214-3dd4-4111-8b67-56012905a4b4">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>jdbc.properties
+
+E:/AlexeyS/Studying/NetCrackerCourses/ Java/SpringHibernateTask/resources/application.properties</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/bookDatabase</jdbc-url>
+    </data-source>
+  </component>
+</project>
